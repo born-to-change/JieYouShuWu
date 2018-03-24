@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JieYouShuWu.iml" filepath="$PROJECT_DIR$/JieYouShuWu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-api/jieyoushuwu-api.iml" filepath="$PROJECT_DIR$/jieyoushuwu-api/jieyoushuwu-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-core/jieyoushuwu-core.iml" filepath="$PROJECT_DIR$/jieyoushuwu-core/jieyoushuwu-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-metadata/jieyoushuwu-metadata.iml" filepath="$PROJECT_DIR$/jieyoushuwu-metadata/jieyoushuwu-metadata.iml" />
+    </modules>
+  </component>
+</project>
