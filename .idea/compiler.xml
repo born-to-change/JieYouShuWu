@@ -9,6 +9,7 @@
         <module name="jieyoushuwu-api" />
         <module name="jieyoushuwu-core" />
         <module name="jieyoushuwu-metadata" />
+        <module name="jieyoushuwu-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="jieyoushuwu-api" target="1.5" />
       <module name="jieyoushuwu-core" target="1.5" />
       <module name="jieyoushuwu-metadata" target="1.5" />
+      <module name="jieyoushuwu-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
