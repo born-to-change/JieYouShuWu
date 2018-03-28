@@ -1,4 +1,5 @@
 package graduation.project.api.model;
+import com.alibaba.fastjson.annotation.JSONField;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
@@ -8,6 +9,7 @@ import lombok.Setter;
 @Getter
 public class User {
     @NonNull
+    @JSONField(name = "phoneNumber")
     private final String phoneNumber;
     @NonNull
     private final String userId;

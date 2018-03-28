@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-core/jieyoushuwu-core.iml" filepath="$PROJECT_DIR$/jieyoushuwu-core/jieyoushuwu-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-metadata/jieyoushuwu-metadata.iml" filepath="$PROJECT_DIR$/jieyoushuwu-metadata/jieyoushuwu-metadata.iml" />
       <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-web/jieyoushuwu-web.iml" filepath="$PROJECT_DIR$/jieyoushuwu-web/jieyoushuwu-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jieyoushuwu-web/retrive.iml" filepath="$PROJECT_DIR$/jieyoushuwu-web/retrive.iml" />
     </modules>
   </component>
 </project>
